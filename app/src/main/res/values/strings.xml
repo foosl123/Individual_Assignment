@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Individual Assignment</string>
+    <string name="top_scores">Top Scores</string>
+    <string name="congrats_new_high_score">Congratulations! You achieved a new high score!</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="submit">Submit</string>
+    <string name="top_scores_title">Top Scores</string>
+    <string name="return_to_game">Return to game</string>
+    <string name="back">Back</string>
+    <string name="timer_text">Timer</string>
+    <string name="score">Score</string>
+    <string name="level_text">Level</string>
+</resources>
